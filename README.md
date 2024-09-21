@@ -48,7 +48,7 @@ Using MySQL, I cleaned, analyzed, and normalized Disney+ streaming data, which i
 | imdb_score | float |  The IMDB score of the movie or TV show |
 | imdb_votes | integer |  The number of IMDB votes of the movie or TV show |
 | tmdb_popularitye | float |  The popularity on TMDB of the movie or TV show |
-| imdb_score | float |  The TMDB score of the movie or TV show |
+| tmdb_score | float |  The TMDB score of the movie or TV show |
 
 
 ### 2. credits.csv
