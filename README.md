@@ -32,34 +32,34 @@ Using MySQL, I cleaned, analyzed, and normalized Disney+ streaming data, which i
 ## Data Dictionary:
 
 ### 1. titles.csv
-| Column name | Datatype | Type | Description |
-| :--- | :--- | :--- | :--- |
-| id | string | NON NULLABLE | unique id for each entry |
-| title | string | NON NULLABLE	| The title of the movie or TV show |
-| show_type | string | NON NULLABLE |	The type of the movie or TV show |
-| description | string | NON NULLABLE | The description of the movie or TV show |
-| release_year | integer | NON NULLABLE	| The year the movie or TV show was released |
-| age_certification	| string | NULLABLE | The age certification of the movie or TV show |
-| runtime | integer | NON NULLABLE |	The runtime of the movie or TV show |
-| genres | string | NULLABLE | The genres of the movie or TV show |
-| production_countries | string | NULLABLE | The production countries of the movie or TV show |
-| seasons	| integer | NULLABLE | The number of seasons of the TV show |
-| imdb_id | integer | NON NULLABLE	| The title ID on IMDB of the movie or TV show |
-| imdb_score | float | NON NULLABLE | The IMDB score of the movie or TV show |
-| imdb_votes | integer | NON NULLABLE	| The number of IMDB votes of the movie or TV show |
-| tmdb_popularitye | float | NON NULLABLE | The popularity on TMDB of the movie or TV show |
-| imdb_score | float | NON NULLABLE | The TMDB score of the movie or TV show |
+| Column name | Datatype | Description |
+| :--- | :---  | :--- |
+| id | string  | unique id for each entry |
+| title | string |  The title of the movie or TV show |
+| show_type | string | 	The type of the movie or TV show |
+| description | string |  The description of the movie or TV show |
+| release_year | integer |  The year the movie or TV show was released |
+| age_certification	| string |  The age certification of the movie or TV show |
+| runtime | integer | 	The runtime of the movie or TV show |
+| genres | string |  The genres of the movie or TV show |
+| production_countries | string |  The production countries of the movie or TV show |
+| seasons	| integer | The number of seasons of the TV show |
+| imdb_id | integer |  The title ID on IMDB of the movie or TV show |
+| imdb_score | float |  The IMDB score of the movie or TV show |
+| imdb_votes | integer |  The number of IMDB votes of the movie or TV show |
+| tmdb_popularitye | float |  The popularity on TMDB of the movie or TV show |
+| imdb_score | float |  The TMDB score of the movie or TV show |
 
 
 ### 2. credits.csv
 
-| Column name | Datatype | Type | Description |
-| :--- | :--- | :--- | :--- |
-| person_id | integer | NON NULLABLE | The person ID on JustWatch |
-| id | integer | NON NULLABLE | The title ID on JustWatch|
-| name | string | NON NULLABLE | The name of the actor or director |
-|character | string | NULLABLE |The character the actor or actress played in the movie or TV show |
-| role | string | NON NULLABLE | The role the actor or director in the movie or TV show |
+| Column name | Datatype |  Description |
+| :--- | :--- |  :--- |
+| person_id | integer |  The person ID on JustWatch |
+| id | integer |  The title ID on JustWatch|
+| name | string |  The name of the actor or director |
+|character | string | The character the actor or actress played in the movie or TV show |
+| role | string |  The role the actor or director in the movie or TV show |
 
 ## Data Integrity:
 
