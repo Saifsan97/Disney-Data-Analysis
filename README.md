@@ -47,7 +47,7 @@ Using MySQL, I cleaned, analyzed, and normalized Disney+ streaming data, which i
 | imdb_id | integer |  The title ID on IMDB of the movie or TV show |
 | imdb_score | float |  The IMDB score of the movie or TV show |
 | imdb_votes | integer |  The number of IMDB votes of the movie or TV show |
-| tmdb_popularitye | float |  The popularity on TMDB of the movie or TV show |
+| tmdb_popularity | float |  The popularity on TMDB of the movie or TV show |
 | tmdb_score | float |  The TMDB score of the movie or TV show |
 
 
@@ -64,7 +64,7 @@ Using MySQL, I cleaned, analyzed, and normalized Disney+ streaming data, which i
 ## Data Integrity:
 
 * **Reliability and Originality**:
-  The raw dataset is created and updated by Diego Enrique. This dataset contains two files, *titles.csv* which contain more than 1k tilles and *credits.csv* which contain 30k credits of actors and directors of each movie and show on the platform.
+  Diego Enrique created and updated the raw dataset. This dataset contains two files, *titles.csv* which contain more than 1k tilles and *credits.csv* which contain 30k credits of actors and directors of each movie and show on the platform.
 
 * **Comprehensiveness**:
   This dataset collected from JustWatch in March 2023, containing data available in the United States. 
