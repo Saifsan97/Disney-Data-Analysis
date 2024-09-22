@@ -35,7 +35,7 @@ Using MySQL, I cleaned, analyzed, and normalized Disney+ streaming data, which i
 | Column name | Datatype | Description |
 | :--- | :---  | :--- |
 | id | string  | unique id for each entry |
-| title | string |  The title of the movie or TV show |
+| t_title | string |  The title of the movie or TV show |
 | show_type | string | 	The type of the movie or TV show |
 | description | string |  The description of the movie or TV show |
 | release_year | integer |  The year the movie or TV show was released |
