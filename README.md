@@ -107,4 +107,5 @@ Using MySQL, I cleaned, analyzed, and normalized Disney+ streaming data, which i
    * [Market share of video-on-demand providers in Singapore in 2022] (https://www.statista.com/forecasts/1366780/singapore-market-share-of-video-streaming-services#:~:text=In%202022%2C%20Disney%2B%20had%20the,services%20were%20YouTube%20and%20Netflix.)
   
    * https://github.com/Arpita-deb/netflix-movies-and-tv-shows/tree/main
+   * https://github.com/SharifAthar/Netflix-Shows-and-Movies-SQL?tab=readme-ov-file
 
