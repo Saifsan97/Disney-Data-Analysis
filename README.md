@@ -11,15 +11,28 @@ Using MySQL, I cleaned, analyzed, and normalized Disney+ streaming data, which i
 # Objective:
 
 1. What is the total number of movies and TV shows available on Disney+?
-2. How many movies and TV shows were released in each decade?
-3. What are the most common genres of movies and TV shows on Disney+?
-4. Which country produces the most movies and TV shows on Disney+?
-5. What is the average duration of movies and TV shows on Disney+?
-6. What are the top-rated movies on Disney+?
-7. What are the most popular ratings on Disney+?
-8. Which were the top years in terms of the number of titles released?
-9. Which actor/director has most films/series in Disney+?
-10. What are the percentage relative frequency for genre?
+2. What were the top 10 *movies* according to IMDB score?
+3. What were the top 10 *shows* according to IMDB score?
+4. What were the bottom 10 *movies* according to IMDB score?
+5. What were the bottom 10 *shows* according to IMDB score?
+6. What were the average IMDB and TMDB scores for shows and movies?
+7. Count of movies and shows in each decade
+8. What were the average IMDB and TMDB scores for each production country?
+9. What were the average IMDB and TMDB scores for each age certification for shows and movies?
+10. What were the 5 most common age certifications for movies?
+11. Who were the top 20 *actors* that appeared the most in movies/shows?
+12. Who were the top 20 *directors* that directed the most movies/shows?
+13. Calculating the average runtime of movies and TV shows separately
+14. Finding the titles and  directors of movies released on or after 2010
+15. Which shows on Netflix have the most seasons?
+16. Which genres had the most movies?
+17. Which genres had the most shows?
+18. Titles and Directors of movies with high IMDB scores (>7.5) and high TMDB popularity scores (>80)
+19. What were the total number of titles for each year?
+20. Actors who have starred in the most highly rated movies or shows
+21. Which actors/actresses played the same character in multiple movies or TV shows?
+22. What were the top 3 most common genres?
+23. Average IMDB score for leading actors/actresses in movies or shows
 
  # Tools used:
 
@@ -87,14 +100,12 @@ Using MySQL, I cleaned, analyzed, and normalized Disney+ streaming data, which i
 
 # Limitation of the project:
 
-* One possible limitation of the Netflix dataset is that it only contains data up to March 2023, which may not reflect most current contents and trends.
+* One possible limitation of the Disney+ dataset is that it only contains data up to March 2023, which may not reflect most current contents and trends.
 * The data should include global size dataset instead of focusing on United States.
-* Due to rigorous data cleaning of the dataset, many incorrect and inconsistent entries have been removed from the dataset. So, it does not cover the entire contents of Netflix.
-* Since there were no reviews, we couldn’t perform sentiment analysis to provide more insights into user behavior and preferences.
+* Due to rigorous data cleaning of the dataset, many incorrect and inconsistent entries have been removed from the dataset. So, it does not cover the entire contents of Disney+.
 
 # Some future project ideas:
 
-* Analyze the relationship between the director and the cast of the movies and shows.
 * Explore the variation of content in other countries as well as for different years.
 * Perform sentiment analysis on the descriptions of the movies and shows.
 * Create a recommendation system based on the user’s preferences and viewing history.
