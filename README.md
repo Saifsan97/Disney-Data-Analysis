@@ -84,21 +84,21 @@ Using MySQL, I cleaned, analyzed, and normalized Disney+ streaming data, which i
 * **Current**:
   The dataset is updated up to 2023. So it is quite current.
 
-  # Recommendations for various stakeholders:
+## Recommendations for various stakeholders:
 
-* **Disney+ Employees**:
+### Disney+ Employees:
 * Enhance Quality of Family-Oriented Content: Employees working in content development and production should focus on improving the storytelling and production quality of family-oriented content. Conducting audience surveys and focus groups can help understand viewer expectations. Engaging with modern family dynamics and inclusive themes could resonate well with current audiences.
 * Diversify Content Creation Across Genres: With steady growth in the number of titles, employees should be encouraged to explore diverse genres. Given the interest in hybrid genres (e.g., action, sci-fi, fantasy), exploring new content ideas that combine elements of adventure, comedy, and drama could cater to a wide range of viewers.
 
-* **Disney+ Management**:
+### Disney+ Managements:
 * Invest in Mature-Themed Content: The growing audience demand for PG-13, R, and TV-MA content offers Disney+ an opportunity to create more mature-themed content, which could diversify its portfolio beyond family-oriented programming. Management should allocate resources to developing high-quality, mature original series and films that cater to an older audience, while maintaining the platform’s brand standards.
 * Expand Region-Specific Strategies: Countries like New Zealand, the U.S., and South Korea have shown higher appreciation for content. Management should consider prioritizing new releases and marketing campaigns in these high-scoring regions. For lower-scoring regions such as Germany and the U.K., a deeper market analysis is recommended to align content with local preferences. Creating localized content or modifying marketing strategies to resonate better with regional audiences could enhance content performance in those markets.
 
-* **Disney+ Investor**:
+### Disney+ Investors:
 * Disney+ has seen steady growth in its title count since the late 1990s, with a surge in the 2010s. Investors should feel confident in Disney+’s capacity to scale its content and expand its user base. The growth in the number of titles, particularly from 2019 to 2022, suggests that Disney+ is positioned to continue capturing a larger share of the streaming market.
 * Focus on High-Scoring Regions for Market Expansion: Investors should support Disney+ as it targets regions with higher content reception scores (e.g., U.S., Mexico, South Korea). By focusing marketing efforts and content development in these regions, Disney+ can achieve higher engagement and subscription rates, further driving platform growth.
 
-* **Disney+ Communities**:
+### Disney+ Communities:
 * Strengthen Community Engagement through Feedback and Reviews: The community can play a crucial role in improving content quality through feedback. Encouraging viewers to leave ratings and reviews on platforms like TMDB could help creators understand audience preferences and improve content quality over time. Disney+ can build a more interactive user base by promoting user engagement with review prompts after watching content.
 * Promote Educational and Family-Friendly Content: Communities, especially schools and family organizations, should be aware of Disney+'s wide range of educational and family-friendly content. By promoting Disney+'s documentaries and family series, the platform can further solidify its reputation as a provider of safe, high-quality content that educates and entertains.
 
