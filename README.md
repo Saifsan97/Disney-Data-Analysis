@@ -20,19 +20,15 @@ Using MySQL, I cleaned, analyzed, and normalized Disney+ streaming data, which i
 8. What were the average IMDB and TMDB scores for each production country?
 9. What were the average IMDB and TMDB scores for each age certification for shows and movies?
 10. What were the 5 most common age certifications for movies?
-11. Who were the top 20 *actors* that appeared the most in movies/shows?
-12. Who were the top 20 *directors* that directed the most movies/shows?
-13. Calculating the average runtime of movies and TV shows separately
-14. Finding the titles and  directors of movies released on or after 2010
-15. Which shows on Netflix have the most seasons?
-16. Which genres had the most movies?
-17. Which genres had the most shows?
-18. Titles and Directors of movies with high IMDB scores (>7.5) and high TMDB popularity scores (>80)
-19. What were the total number of titles for each year?
-20. Actors who have starred in the most highly rated movies or shows
-21. Which actors/actresses played the same character in multiple movies or TV shows?
-22. What were the top 3 most common genres?
-23. Average IMDB score for leading actors/actresses in movies or shows
+11. Calculating the average runtime of movies and TV shows separately
+12. Finding the titles and  directors of movies released on or after 2023
+13. Which shows on Disney+ have the most seasons?
+14. Which genres had the most movies?
+15. Which genres had the most shows?
+16. Titles and Directors of movies with high IMDB scores (>7.5) and high TMDB popularity scores (>80)
+17. Find the total number of titles for each year?
+18. Actors who have starred in the most highly rated movies or shows
+    
 
  # Tools used:
 
