@@ -86,7 +86,7 @@ Using MySQL, I cleaned, analyzed, and normalized Disney+ streaming data, which i
 
   # Recommendations for various stakeholders:
 
-* **Disney+ employees**:
+* **Disney+ Employees**:
 * Enhance Quality of Family-Oriented Content: Employees working in content development and production should focus on improving the storytelling and production quality of family-oriented content. Conducting audience surveys and focus groups can help understand viewer expectations. Engaging with modern family dynamics and inclusive themes could resonate well with current audiences.
 * Diversify Content Creation Across Genres: With steady growth in the number of titles, employees should be encouraged to explore diverse genres. Given the interest in hybrid genres (e.g., action, sci-fi, fantasy), exploring new content ideas that combine elements of adventure, comedy, and drama could cater to a wide range of viewers.
 
@@ -109,11 +109,6 @@ Using MySQL, I cleaned, analyzed, and normalized Disney+ streaming data, which i
 * The data should include global size dataset instead of focusing on United States.
 * Due to rigorous data cleaning of the dataset, many incorrect and inconsistent entries have been removed from the dataset. So, it does not cover the entire contents of Disney+.
 
-# Some future project ideas:
-
-* Explore the variation of content in other countries as well as for different years.
-* Perform sentiment analysis on the descriptions of the movies and shows.
-* Create a recommendation system based on the user’s preferences and viewing history.
 
 ## Resources:
 
@@ -122,6 +117,5 @@ Using MySQL, I cleaned, analyzed, and normalized Disney+ streaming data, which i
 2. Introduction
    * [Market share of video-on-demand providers in Singapore in 2022] (https://www.statista.com/forecasts/1366780/singapore-market-share-of-video-streaming-services#:~:text=In%202022%2C%20Disney%2B%20had%20the,services%20were%20YouTube%20and%20Netflix.)
   
-   * https://github.com/Arpita-deb/netflix-movies-and-tv-shows/tree/main
-   * https://github.com/SharifAthar/Netflix-Shows-and-Movies-SQL?tab=readme-ov-file
+  
 
