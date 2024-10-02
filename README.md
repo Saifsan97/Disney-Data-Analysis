@@ -145,7 +145,7 @@ Disney+ should leverage regions that show consistently high ratings for content 
 # Resources:
 
 1. Dataset Used
-   * [Netflix Movies and Series in Kaggle](https://www.kaggle.com/datasets/dgoenrique/disney-movies-and-tv-shows/data?select=titles.csv)
+   * [Disney+ Movies and Series in Kaggle](https://www.kaggle.com/datasets/dgoenrique/disney-movies-and-tv-shows/data?select=titles.csv)
 2. Introduction
    * [Market share of video-on-demand providers in Singapore in 2022](https://www.statista.com/forecasts/1366780/singapore-market-share-of-video-streaming-services#:~:text=In%202022%2C%20Disney%2B%20had%20the,services%20were%20YouTube%20and%20Netflix.)
   
